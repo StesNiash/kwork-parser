@@ -1,0 +1,11 @@
+{
+  "products": 3,
+  "stats": {
+    "pages": 2,
+    "found": 4,
+    "skipped": 1,
+    "duplicates": 1
+  },
+  "csv": "demo/products.csv",
+  "xlsx": "demo/products.xlsx"
+}

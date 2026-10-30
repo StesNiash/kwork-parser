@@ -1,0 +1,22 @@
+{
+  "item": ".product",
+  "base_url": "https://shop.example",
+  "next": "a.next",
+  "fields": {
+    "sku": {
+      "selector": ".sku"
+    },
+    "title": {
+      "selector": ".title",
+      "required": true
+    },
+    "price": {
+      "selector": ".price"
+    },
+    "url": {
+      "selector": "a.link",
+      "attr": "href",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,4 @@
+﻿sku,title,price,url,source
+A-101,Кружка керамическая,1 200 ₽,https://shop.example/p/mug,file://C:\Users\ruden\kwork-freelance\repos\kwork-parser\tests\fixtures\page1.html
+A-102,Термос стальной,2 490 ₽,https://shop.example/p/thermos,file://C:\Users\ruden\kwork-freelance\repos\kwork-parser\tests\fixtures\page1.html
+A-103,Плед из хлопка,3 100 ₽,https://shop.example/p/blanket,file://C:\Users\ruden\kwork-freelance\repos\kwork-parser\tests\fixtures\page2.html
