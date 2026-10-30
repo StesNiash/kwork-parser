@@ -45,3 +45,17 @@
 **Сайт на JavaScript?** Базовый парсер не исполняет JS; нужен отдельный браузерный сценарий.
 
 **Данные придут в Excel?** Да, CSV и XLSX; для XLSX нужен `openpyxl` из `requirements.txt`.
+
+## Обложка (не копировать в карточку)
+
+> Это промпт для генератора изображений, а не текст объявления. В Kwork его публиковать не нужно.
+
+**Промпт для ChatGPT / Gemini:**
+
+> 4:3 editorial tech illustration for a website-to-spreadsheet parser service. On the left, a stack of clean website product cards with selector brackets and a magnifier; in the middle, a subtle funnel; on the right, a polished spreadsheet with rows and a small CSV/XLSX file icon. Deep blue background, cyan and warm orange accents, soft glow, thin grid lines, professional vector-3D hybrid, high contrast, generous negative space, centered composition that survives a square crop, no text, no letters, no logos, no watermarks, no real person, crisp details.
+
+**Коротко по-русски:** карточки сайта → воронка → аккуратная таблица; синий, циан и оранжевый; без текста, логотипов и брендов.
+
+**Параметры:** 1200×900, 4:3; таблица и карточки не обрезаны по краям.
+
+**Негатив:** text, typography, letters, brand logo, watermark, signature, real person, messy cables, cluttered composition, low contrast, distorted UI.
